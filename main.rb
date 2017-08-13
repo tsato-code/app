@@ -58,4 +58,3 @@ get '/star' do
 	response = { "star_count" => new_star_count }
 	json response
 end
-
