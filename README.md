@@ -1,11 +1,4 @@
-# Simple
+# Ruby + sinatra
 
-For education
+メモ。
 
-## install
-
-    gem install sinatra
-
-## running
-
-    ruby main.rb
